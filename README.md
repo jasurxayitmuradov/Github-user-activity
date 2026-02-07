@@ -81,3 +81,5 @@ https://api.github.com/users/<username>/events
 ## 👨‍💻 Author
 
 Built as a backend practice project for working with APIs and building CLI tools in Python.
+
+https://roadmap.sh/projects/github-user-activity project link
